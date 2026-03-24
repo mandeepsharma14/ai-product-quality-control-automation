@@ -1,0 +1,7049 @@
+{
+  "classes": [
+    "good",
+    "crack",
+    "blister",
+    "crooked_corner",
+    "thin_paint",
+    "thick_paint",
+    "scratch",
+    "delamination"
+  ],
+  "samples": {
+    "good": 300,
+    "crack": 140,
+    "blister": 130,
+    "crooked_corner": 110,
+    "thin_paint": 130,
+    "thick_paint": 120,
+    "scratch": 130,
+    "delamination": 110
+  },
+  "img_size": [
+    224,
+    224
+  ],
+  "total": 1170,
+  "manifest": [
+    {
+      "path": "data/images/train/good/good_0000.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0001.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0002.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0003.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0004.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0005.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0006.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0007.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0008.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0009.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0010.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0011.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0012.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0013.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0014.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0015.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0016.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0017.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0018.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0019.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0020.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0021.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0022.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0023.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0024.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0025.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0026.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0027.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0028.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0029.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0030.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0031.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0032.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0033.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0034.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0035.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0036.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0037.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0038.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0039.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0040.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0041.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0042.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0043.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0044.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0045.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0046.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0047.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0048.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0049.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0050.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0051.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0052.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0053.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0054.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0055.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0056.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0057.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0058.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0059.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0060.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0061.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0062.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0063.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0064.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0065.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0066.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0067.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0068.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0069.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0070.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0071.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0072.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0073.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0074.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0075.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0076.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0077.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0078.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0079.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0080.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0081.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0082.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0083.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0084.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0085.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0086.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0087.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0088.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0089.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0090.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0091.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0092.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0093.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0094.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0095.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0096.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0097.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0098.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0099.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0100.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0101.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0102.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0103.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0104.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0105.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0106.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0107.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0108.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0109.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0110.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0111.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0112.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0113.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0114.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0115.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0116.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0117.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0118.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0119.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0120.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0121.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0122.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0123.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0124.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0125.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0126.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0127.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0128.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0129.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0130.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0131.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0132.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0133.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0134.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0135.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0136.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0137.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0138.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0139.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0140.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0141.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0142.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0143.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0144.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0145.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0146.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0147.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0148.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0149.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0150.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0151.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0152.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0153.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0154.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0155.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0156.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0157.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0158.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0159.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0160.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0161.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0162.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0163.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0164.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0165.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0166.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0167.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0168.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0169.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0170.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0171.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0172.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0173.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0174.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0175.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0176.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0177.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0178.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0179.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0180.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0181.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0182.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0183.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0184.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0185.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0186.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0187.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0188.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0189.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0190.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0191.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0192.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0193.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0194.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0195.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0196.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0197.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0198.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0199.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0200.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0201.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0202.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0203.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0204.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0205.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0206.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0207.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0208.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0209.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0210.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0211.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0212.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0213.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0214.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0215.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0216.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0217.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0218.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0219.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0220.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0221.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0222.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0223.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0224.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0225.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0226.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0227.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0228.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0229.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0230.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0231.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0232.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0233.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0234.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0235.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0236.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0237.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0238.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/good/good_0239.jpg",
+      "label": "good",
+      "split": "train",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0240.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0241.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0242.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0243.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0244.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0245.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0246.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0247.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0248.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0249.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0250.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0251.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0252.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0253.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0254.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0255.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0256.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0257.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0258.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0259.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0260.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0261.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0262.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0263.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0264.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0265.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0266.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0267.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0268.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0269.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0270.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0271.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0272.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0273.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0274.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0275.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0276.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0277.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0278.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0279.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0280.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0281.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0282.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0283.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0284.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0285.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0286.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0287.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0288.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0289.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0290.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0291.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0292.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0293.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0294.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0295.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0296.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0297.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0298.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/val/good/good_0299.jpg",
+      "label": "good",
+      "split": "val",
+      "label_id": 0
+    },
+    {
+      "path": "data/images/train/crack/crack_0000.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0001.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0002.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0003.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0004.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0005.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0006.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0007.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0008.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0009.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0010.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0011.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0012.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0013.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0014.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0015.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0016.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0017.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0018.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0019.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0020.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0021.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0022.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0023.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0024.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0025.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0026.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0027.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0028.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0029.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0030.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0031.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0032.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0033.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0034.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0035.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0036.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0037.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0038.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0039.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0040.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0041.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0042.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0043.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0044.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0045.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0046.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0047.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0048.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0049.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0050.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0051.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0052.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0053.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0054.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0055.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0056.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0057.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0058.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0059.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0060.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0061.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0062.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0063.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0064.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0065.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0066.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0067.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0068.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0069.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0070.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0071.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0072.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0073.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0074.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0075.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0076.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0077.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0078.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0079.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0080.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0081.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0082.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0083.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0084.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0085.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0086.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0087.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0088.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0089.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0090.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0091.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0092.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0093.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0094.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0095.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0096.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0097.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0098.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0099.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0100.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0101.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0102.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0103.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0104.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0105.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0106.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0107.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0108.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0109.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0110.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/crack/crack_0111.jpg",
+      "label": "crack",
+      "split": "train",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0112.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0113.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0114.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0115.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0116.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0117.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0118.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0119.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0120.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0121.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0122.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0123.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0124.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0125.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0126.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0127.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0128.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0129.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0130.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0131.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0132.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0133.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0134.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0135.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0136.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0137.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0138.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/val/crack/crack_0139.jpg",
+      "label": "crack",
+      "split": "val",
+      "label_id": 1
+    },
+    {
+      "path": "data/images/train/blister/blister_0000.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0001.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0002.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0003.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0004.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0005.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0006.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0007.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0008.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0009.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0010.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0011.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0012.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0013.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0014.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0015.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0016.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0017.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0018.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0019.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0020.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0021.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0022.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0023.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0024.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0025.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0026.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0027.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0028.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0029.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0030.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0031.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0032.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0033.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0034.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0035.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0036.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0037.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0038.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0039.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0040.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0041.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0042.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0043.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0044.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0045.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0046.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0047.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0048.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0049.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0050.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0051.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0052.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0053.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0054.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0055.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0056.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0057.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0058.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0059.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0060.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0061.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0062.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0063.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0064.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0065.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0066.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0067.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0068.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0069.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0070.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0071.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0072.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0073.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0074.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0075.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0076.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0077.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0078.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0079.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0080.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0081.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0082.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0083.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0084.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0085.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0086.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0087.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0088.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0089.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0090.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0091.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0092.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0093.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0094.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0095.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0096.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0097.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0098.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0099.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0100.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0101.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0102.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/blister/blister_0103.jpg",
+      "label": "blister",
+      "split": "train",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0104.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0105.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0106.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0107.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0108.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0109.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0110.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0111.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0112.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0113.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0114.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0115.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0116.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0117.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0118.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0119.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0120.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0121.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0122.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0123.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0124.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0125.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0126.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0127.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0128.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/val/blister/blister_0129.jpg",
+      "label": "blister",
+      "split": "val",
+      "label_id": 2
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0000.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0001.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0002.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0003.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0004.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0005.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0006.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0007.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0008.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0009.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0010.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0011.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0012.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0013.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0014.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0015.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0016.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0017.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0018.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0019.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0020.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0021.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0022.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0023.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0024.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0025.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0026.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0027.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0028.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0029.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0030.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0031.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0032.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0033.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0034.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0035.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0036.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0037.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0038.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0039.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0040.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0041.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0042.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0043.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0044.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0045.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0046.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0047.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0048.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0049.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0050.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0051.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0052.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0053.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0054.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0055.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0056.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0057.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0058.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0059.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0060.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0061.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0062.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0063.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0064.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0065.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0066.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0067.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0068.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0069.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0070.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0071.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0072.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0073.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0074.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0075.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0076.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0077.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0078.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0079.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0080.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0081.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0082.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0083.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0084.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0085.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0086.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/crooked_corner/crooked_corner_0087.jpg",
+      "label": "crooked_corner",
+      "split": "train",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0088.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0089.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0090.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0091.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0092.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0093.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0094.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0095.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0096.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0097.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0098.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0099.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0100.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0101.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0102.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0103.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0104.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0105.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0106.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0107.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0108.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/val/crooked_corner/crooked_corner_0109.jpg",
+      "label": "crooked_corner",
+      "split": "val",
+      "label_id": 3
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0000.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0001.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0002.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0003.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0004.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0005.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0006.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0007.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0008.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0009.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0010.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0011.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0012.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0013.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0014.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0015.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0016.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0017.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0018.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0019.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0020.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0021.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0022.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0023.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0024.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0025.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0026.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0027.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0028.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0029.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0030.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0031.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0032.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0033.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0034.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0035.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0036.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0037.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0038.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0039.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0040.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0041.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0042.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0043.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0044.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0045.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0046.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0047.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0048.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0049.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0050.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0051.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0052.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0053.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0054.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0055.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0056.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0057.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0058.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0059.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0060.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0061.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0062.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0063.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0064.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0065.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0066.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0067.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0068.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0069.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0070.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0071.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0072.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0073.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0074.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0075.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0076.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0077.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0078.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0079.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0080.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0081.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0082.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0083.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0084.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0085.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0086.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0087.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0088.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0089.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0090.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0091.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0092.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0093.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0094.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0095.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0096.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0097.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0098.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0099.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0100.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0101.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0102.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thin_paint/thin_paint_0103.jpg",
+      "label": "thin_paint",
+      "split": "train",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0104.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0105.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0106.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0107.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0108.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0109.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0110.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0111.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0112.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0113.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0114.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0115.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0116.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0117.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0118.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0119.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0120.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0121.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0122.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0123.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0124.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0125.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0126.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0127.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0128.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/val/thin_paint/thin_paint_0129.jpg",
+      "label": "thin_paint",
+      "split": "val",
+      "label_id": 4
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0000.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0001.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0002.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0003.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0004.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0005.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0006.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0007.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0008.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0009.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0010.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0011.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0012.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0013.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0014.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0015.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0016.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0017.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0018.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0019.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0020.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0021.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0022.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0023.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0024.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0025.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0026.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0027.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0028.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0029.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0030.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0031.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0032.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0033.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0034.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0035.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0036.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0037.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0038.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0039.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0040.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0041.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0042.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0043.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0044.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0045.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0046.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0047.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0048.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0049.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0050.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0051.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0052.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0053.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0054.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0055.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0056.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0057.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0058.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0059.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0060.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0061.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0062.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0063.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0064.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0065.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0066.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0067.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0068.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0069.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0070.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0071.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0072.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0073.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0074.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0075.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0076.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0077.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0078.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0079.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0080.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0081.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0082.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0083.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0084.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0085.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0086.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0087.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0088.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0089.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0090.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0091.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0092.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0093.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0094.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/thick_paint/thick_paint_0095.jpg",
+      "label": "thick_paint",
+      "split": "train",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0096.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0097.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0098.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0099.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0100.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0101.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0102.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0103.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0104.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0105.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0106.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0107.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0108.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0109.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0110.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0111.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0112.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0113.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0114.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0115.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0116.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0117.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0118.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/val/thick_paint/thick_paint_0119.jpg",
+      "label": "thick_paint",
+      "split": "val",
+      "label_id": 5
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0000.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0001.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0002.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0003.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0004.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0005.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0006.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0007.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0008.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0009.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0010.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0011.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0012.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0013.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0014.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0015.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0016.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0017.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0018.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0019.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0020.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0021.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0022.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0023.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0024.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0025.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0026.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0027.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0028.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0029.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0030.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0031.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0032.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0033.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0034.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0035.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0036.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0037.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0038.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0039.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0040.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0041.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0042.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0043.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0044.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0045.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0046.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0047.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0048.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0049.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0050.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0051.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0052.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0053.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0054.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0055.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0056.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0057.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0058.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0059.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0060.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0061.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0062.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0063.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0064.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0065.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0066.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0067.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0068.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0069.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0070.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0071.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0072.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0073.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0074.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0075.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0076.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0077.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0078.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0079.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0080.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0081.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0082.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0083.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0084.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0085.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0086.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0087.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0088.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0089.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0090.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0091.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0092.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0093.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0094.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0095.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0096.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0097.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0098.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0099.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0100.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0101.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0102.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/scratch/scratch_0103.jpg",
+      "label": "scratch",
+      "split": "train",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0104.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0105.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0106.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0107.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0108.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0109.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0110.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0111.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0112.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0113.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0114.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0115.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0116.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0117.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0118.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0119.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0120.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0121.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0122.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0123.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0124.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0125.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0126.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0127.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0128.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/val/scratch/scratch_0129.jpg",
+      "label": "scratch",
+      "split": "val",
+      "label_id": 6
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0000.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0001.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0002.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0003.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0004.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0005.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0006.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0007.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0008.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0009.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0010.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0011.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0012.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0013.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0014.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0015.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0016.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0017.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0018.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0019.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0020.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0021.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0022.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0023.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0024.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0025.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0026.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0027.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0028.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0029.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0030.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0031.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0032.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0033.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0034.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0035.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0036.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0037.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0038.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0039.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0040.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0041.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0042.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0043.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0044.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0045.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0046.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0047.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0048.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0049.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0050.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0051.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0052.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0053.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0054.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0055.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0056.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0057.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0058.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0059.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0060.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0061.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0062.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0063.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0064.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0065.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0066.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0067.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0068.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0069.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0070.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0071.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0072.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0073.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0074.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0075.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0076.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0077.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0078.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0079.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0080.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0081.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0082.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0083.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0084.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0085.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0086.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/train/delamination/delamination_0087.jpg",
+      "label": "delamination",
+      "split": "train",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0088.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0089.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0090.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0091.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0092.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0093.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0094.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0095.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0096.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0097.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0098.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0099.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0100.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0101.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0102.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0103.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0104.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0105.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0106.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0107.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0108.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    },
+    {
+      "path": "data/images/val/delamination/delamination_0109.jpg",
+      "label": "delamination",
+      "split": "val",
+      "label_id": 7
+    }
+  ]
+}

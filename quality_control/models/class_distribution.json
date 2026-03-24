@@ -1,0 +1,10 @@
+{
+  "good": 240,
+  "crack": 112,
+  "blister": 104,
+  "crooked_corner": 88,
+  "thin_paint": 104,
+  "thick_paint": 96,
+  "scratch": 104,
+  "delamination": 88
+}

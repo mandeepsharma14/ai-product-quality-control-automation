@@ -1,0 +1,64 @@
+# ── Virtual Environment ────────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Generated Image Data (too large for GitHub — regenerate with generate_images.py) ──
+quality_control/data/images/
+
+# ── Trained Model Binaries (regenerate with train.py) ─────────────────────────
+quality_control/models/qc_model.pkl
+quality_control/models/scaler.pkl
+quality_control/models/class_distribution.json
+
+# ── Jupyter Notebook Checkpoints ──────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ── Generated Plot Files ───────────────────────────────────────────────────────
+*.png
+!docs/*.png
+
+# ── macOS ──────────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# ── Windows ────────────────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── IDE / Editor ───────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Streamlit ──────────────────────────────────────────────────────────────────
+.streamlit/
+
+# ── Environment Variables ──────────────────────────────────────────────────────
+.env
+.env.local
+*.env
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+logs/
